@@ -1,0 +1,16 @@
+/.
+/etc
+/etc/security
+/etc/security/capability.conf
+/lib
+/lib/i386-linux-gnu
+/lib/i386-linux-gnu/security
+/lib/i386-linux-gnu/security/pam_cap.so
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libpam-cap
+/usr/share/doc/libpam-cap/copyright
+/usr/share/pam-configs
+/usr/share/pam-configs/capability
+/usr/share/doc/libpam-cap/changelog.Debian.gz
